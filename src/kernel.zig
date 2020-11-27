@@ -1,5 +1,3 @@
-
-
 const Stivale2 = packed struct {
     entry_point: u64,
     stack: u64,
